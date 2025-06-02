@@ -6,8 +6,3 @@ fun classifyTemperature(temp: Int) {
     }
     println("Temperature: $temp°C — $result")
 }
-
-// Приклад виклику
-classifyTemperature(5)
-classifyTemperature(20)
-classifyTemperature(30)
